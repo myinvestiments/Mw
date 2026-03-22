@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MykeLiquid PRO</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0b0f1a;
+    color: #fff;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.hero {
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.hero h1 {
+    font-size: 32px;
+    color: #00ff88;
+}
+
+.hero p {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 15px 25px;
+    background: #00ff88;
+    color: #000;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.section {
+    margin-top: 50px;
+}
+
+.box {
+    background: #111827;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.price {
+    text-align: center;
+    font-size: 28px;
+    color: #00ff88;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 12px;
+    opacity: 0.7;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<!-- HERO -->
+<div class="hero">
+    <h1>💰 Transforme sua conta em uma máquina de lucro</h1>
+    <p>Robô institucional que opera automaticamente pra você</p>
+    <a href="#" class="btn">🚀 QUERO ATIVAR AGORA</a>
+</div>
+
+<!-- DOR -->
+<div class="section">
+    <h2>Você passa por isso?</h2>
+    <div class="box">
+        <p>❌ Perde dinheiro operando</p>
+        <p>❌ Não sabe quando entrar</p>
+        <p>❌ Fica preso em operações negativas</p>
+        <p>❌ Opera na emoção</p>
+    </div>
+</div>
+
+<!-- SOLUÇÃO -->
+<div class="section">
+    <h2>Apresentamos o MykeLiquid PRO</h2>
+    <div class="box">
+        <p>✔ Entra no rompimento real</p>
+        <p>✔ Recupera operações automaticamente</p>
+        <p>✔ Opera 100% automático</p>
+        <p>✔ Estratégia institucional</p>
+    </div>
+</div>
+
+<!-- COMO FUNCIONA -->
+<div class="section">
+    <h2>Como funciona</h2>
+    <div class="box">
+        <p>📊 Analisa o mercado</p>
+        <p>🎯 Entra no momento certo</p>
+        <p>🔄 Recupera perdas</p>
+        <p>💰 Busca lucro constantemente</p>
+    </div>
+</div>
+
+<!-- DEPOIMENTOS -->
+<div class="section">
+    <h2>Resultados</h2>
+    <div class="box">
+        <p>💬 "Comecei com pouco e já tive resultado"</p>
+        <p>💬 "Muito melhor que operar manual"</p>
+        <p>💬 "Recupera sozinho, impressionante"</p>
+    </div>
+</div>
+
+<!-- PREÇO -->
+<div class="section">
+    <h2>Oferta Especial</h2>
+    <div class="box">
+        <p style="text-align:center;">De <s>R$297</s></p>
+        <p class="price">Por apenas R$97</p>
+        <div style="text-align:center;">
+            <a href="#" class="btn">💰 COMPRAR AGORA</a>
+        </div>
+    </div>
+</div>
+
+<!-- GARANTIA -->
+<div class="section">
+    <h2>Garantia</h2>
+    <div class="box">
+        <p>🔒 7 dias de garantia total</p>
+        <p>Se não gostar, devolvemos seu dinheiro</p>
+    </div>
+</div>
+
+<!-- CTA FINAL -->
+<div class="section">
+    <h2>Comece agora</h2>
+    <div style="text-align:center;">
+        <a href="#" class="btn">🚀 QUERO LUCRAR</a>
+    </div>
+</div>
+
+<!-- AVISO -->
+<div class="footer">
+    <p>Este robô não garante lucro fixo. Resultados variam conforme o mercado.</p>
+</div>
+
+</div>
+
+</body>
+</html>
